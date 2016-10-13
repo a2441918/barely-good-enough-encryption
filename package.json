@@ -1,0 +1,17 @@
+{
+  "name": "barely-good-enough-encryption",
+  "version": "1.0.0",
+  "description": "A SPA created using AngularJS showing two algorithm results by the click of a button",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Arun Manohar Manoharan",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  },
+  "engines": {
+    "node": "4.4.3"
+  }
+}
